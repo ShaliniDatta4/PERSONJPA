@@ -1,1 +1,1 @@
-# PERSONJPA
+- This project is to create REST APIs to handle person details
